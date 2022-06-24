@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/kyusss_react_practice/static/js/main.67d0e1b2.js",
+    "main.css": "/kyusss_react_practice/static/css/main.2e330ea5.css",
+    "main.js": "/kyusss_react_practice/static/js/main.6bb4812a.js",
     "index.html": "/kyusss_react_practice/index.html",
-    "main.67d0e1b2.js.map": "/kyusss_react_practice/static/js/main.67d0e1b2.js.map"
+    "main.2e330ea5.css.map": "/kyusss_react_practice/static/css/main.2e330ea5.css.map",
+    "main.6bb4812a.js.map": "/kyusss_react_practice/static/js/main.6bb4812a.js.map"
   },
   "entrypoints": [
-    "static/js/main.67d0e1b2.js"
+    "static/css/main.2e330ea5.css",
+    "static/js/main.6bb4812a.js"
   ]
 }
